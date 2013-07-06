@@ -1,0 +1,8 @@
+
+	[pygments.lexers]
+		PostfixLexer = pygments_log_markup.lexers:PostfixLexer
+
+	[pygments.styles]
+		DarkLog = pygments_log_markup.styles:DarkLogsStyle
+		LightLog = pygments_log_markup.styles:LightLogsStyle
+	
